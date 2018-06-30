@@ -1,0 +1,68 @@
+
+<resources>
+<string name="app_name">Basic Yoruba Test</string>
+<string name="action_settings">Settings</string>
+<string name="question_one">1. Who was the first female vice chancellor of Nigerian university?</string>
+<string name="question_one_option1">Patricia Ette</string>
+<string name="question_one_option2">Grace Alele Williams</string>
+<string name="question_one_option3">Funmi Iyanda</string>
+<string name="question_one_option4">Florence Itta Giwa</string>
+
+<string name="question_two">2. Which civilization flourished in Nigeria ?</string>
+<string name="question_two_option1">Nile Valley Civilization</string>
+<string name="question_two_option2">Indus Valley Civilization</string>
+<string name="question_two_option3">Android Civilisation</string>
+<string name="question_two_option4">Nok Civilization</string>
+
+<string name="question_three">3. Name the Caliphate established in Nigeria in 17th century.</string>
+<string name="question_three_option1">Ottoman Caliphate</string>
+<string name="question_three_option2">Abbasid Caliphate</string>
+<string name="question_three_option3">Abuja Caliphate</string>
+<string name="question_three_option4">Sokoto Caliphate</string>
+
+<string name="question_four">4. Nigeria fought Civil War in ?</string>
+<string name="question_four_option1">1957-1960</string>
+<string name="question_four_option2">1967-1970</string>
+<string name="question_four_option3">1942-1948</string>
+<string name="question_four_option4">1977-1980</string>
+
+<string name="question_five">5. Who was the first Nigerian to become a Noble Laureate?</string>
+<string name="question_five_option1">Olusola Awe</string>
+<string name="question_five_option2">Moshood Abiola</string>
+<string name="question_five_option3">Chinua Achebe</string>
+<string name="question_five_option4">Wole Soyinka</string>
+
+<string name="question_six">6. Who was Nigerian first executive president?</string>
+<string name="question_six_option1">Babangana Kingibe</string>
+<string name="question_six_option2">Sanni Abacha</string>
+<string name="question_six_option3">Shehu Shagari</string>
+<string name="question_six_option4">Okotie Eboh</string>
+
+<string name="question_seven">7. Who was the Nigerian first prime minister?</string>
+<string name="question_seven_option1">Abubakar Tafawa Balewa</string>
+<string name="question_seven_option2">Obafemi Awolowo</string>
+<string name="question_seven_option3">Nnamdi Azikwe</string>
+<string name="question_seven_option4">George Ofiemu</string>
+
+<string name="question_eight">8. When did Nigeria become a Republic?</string>
+<string name="question_eight_option1">1960</string>
+<string name="question_eight_option2">1963</string>
+<string name="question_eight_option3">1962</string>
+<string name="question_eight_option4">1961</string>
+
+<string name="question_nine">9. Who designed the Nigerian flag?</string>
+<string name="question_nine_option1">Ishola Akinwunmi</string>
+<string name="question_nine_option2">Taiwo Akinkunmi</string>
+<string name="question_nine_option3">Michael Akinlade</string>
+<string name="question_nine_option4">Taiwo Akinwunmi</string>
+
+<string name="question_ten">10. Nigeria is divided into how many geopolitical zones?</string>
+<string name="question_ten_option1">9</string>
+<string name="question_ten_option2">8</string>
+<string name="question_ten_option3">7</string>
+<string name="question_ten_option4">6</string>
+
+
+
+</resources>
+
